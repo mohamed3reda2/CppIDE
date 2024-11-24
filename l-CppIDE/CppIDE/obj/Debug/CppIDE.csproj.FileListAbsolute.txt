@@ -1,0 +1,14 @@
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\bin\Debug\CppIDE.exe.config
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\bin\Debug\CppIDE.exe
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\bin\Debug\CppIDE.pdb
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\CppIDE.csproj.AssemblyReference.cache
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\MainWindow.baml
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\MainWindow.g.cs
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\App.g.cs
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\CppIDE_MarkupCompile.cache
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\CppIDE.g.resources
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\CppIDE.Properties.Resources.resources
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\CppIDE.csproj.GenerateResource.cache
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\CppIDE.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\CppIDE.exe
+C:\Users\mohamed.DESKTOP-NFDBMQD\Desktop\CppIDE\CppIDE\obj\Debug\CppIDE.pdb
